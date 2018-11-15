@@ -1,5 +1,5 @@
 {
-    "name": "butterycrumpet/supersimple-responsee-emitter",
+    "name": "butterycrumpet/supersimple-response-emitter",
     "description": "Super simple response emitter for flushing PSR7 response interfaces to the client",
     "type": "library",
     "autoload": {
